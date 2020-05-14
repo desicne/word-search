@@ -1,0 +1,13 @@
+{
+  "name": "Dejan - CodeChanllenge",
+  "short_name": "dcc",
+  "icons": [{
+      "src": "/public/logo/dn.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }],
+  "start_url": "/",
+  "background_color": "#fefefe",
+  "display": "standalone",
+  "theme_color": "#94B1B5"
+}

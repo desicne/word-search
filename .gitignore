@@ -1,0 +1,13 @@
+# dependencies
+**node_modules
+
+# development
+**npm-debug.log*
+.DS_Store
+.vscode
+yarn-error.log
+.idea
+*.iml
+
+# build
+dist/
