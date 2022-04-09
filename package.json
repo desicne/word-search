@@ -39,7 +39,7 @@
     "friendly-errors-webpack-plugin": "^1.7.0",
     "lodash": "^4.17.15",
     "lru-cache": "^4.1.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "rimraf": "^2.6.3",
     "route-cache": "0.4.4",
     "serve-favicon": "^2.5.0",
